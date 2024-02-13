@@ -1,0 +1,8 @@
+bno055_stm32.h:20:6:bno055_assignI2C	1
+bno055_stm32.h:24:6:bno055_delay	1
+bno055_stm32.h:32:6:bno055_writeData	23
+bno055_stm32.h:96:6:bno055_readData	1
+freertos.c:112:7:Map	1
+freertos.c:145:6:vApplicationGetIdleTaskMemory	1
+freertos.c:159:6:MX_FREERTOS_Init	1
+freertos.c:198:6:RotaryIMU_Init	1

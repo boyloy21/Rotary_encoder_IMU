@@ -1,0 +1,8 @@
+../Core/Inc/bno055_stm32.h:20:6:bno055_assignI2C	16	static
+../Core/Inc/bno055_stm32.h:24:6:bno055_delay	16	static
+../Core/Inc/bno055_stm32.h:32:6:bno055_writeData	40	static
+../Core/Inc/bno055_stm32.h:96:6:bno055_readData	24	static
+../Core/Src/freertos.c:112:7:Map	32	static
+../Core/Src/freertos.c:145:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:159:6:MX_FREERTOS_Init	48	static
+../Core/Src/freertos.c:198:6:RotaryIMU_Init	24	static
